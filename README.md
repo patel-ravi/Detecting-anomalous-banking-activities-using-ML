@@ -6,4 +6,4 @@ It was developed as an academic group project for the course 95-791 Data Mining 
 
 Team members: Sanjana Parmar, Ravikumar Patel, Chris Weddle
 
-Please refer the project file for further details related to the project
+Please refer the project file for further details related to the project.
